@@ -1,0 +1,23 @@
+# Environment
+.env
+.env.*
+!*.example
+
+# Binaries
+/bin/
+/dist/
+/tmp/
+
+# OS/Editor
+.DS_Store
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Go
+go.work
+coverage.out
+vendor/
+
