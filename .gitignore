@@ -20,4 +20,5 @@
 go.work
 coverage.out
 vendor/
+bot
 
