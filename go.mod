@@ -1,4 +1,4 @@
-module github.com/ziyodbekabdunasimov/chiptatop-bot
+module github.com/AlibekAbdunasimov/chiptatop
 
 go 1.22
 

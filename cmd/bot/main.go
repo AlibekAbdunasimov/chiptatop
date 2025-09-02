@@ -5,8 +5,8 @@ import (
     "log"
     "time"
 
-    "github.com/ziyodbekabdunasimov/chiptatop-bot/internal/bot"
-    "github.com/ziyodbekabdunasimov/chiptatop-bot/internal/config"
+    "github.com/AlibekAbdunasimov/chiptatop/internal/bot"
+    "github.com/AlibekAbdunasimov/chiptatop/internal/config"
 )
 
 func main() {
